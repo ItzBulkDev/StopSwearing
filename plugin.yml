@@ -1,0 +1,5 @@
+name: StopSwearing
+version: 0.0.1
+api: [1.12.0]
+author: EPICMC_DEVS
+main: epicmc\stopswearing\StopSwearing
